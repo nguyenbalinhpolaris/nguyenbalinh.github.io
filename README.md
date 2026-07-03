@@ -6,8 +6,8 @@ Characterizing photon detector pulses using different algorithms: K-mean, dot-pr
 ## Project director @ QUEST-EEE
 # Projects 
 ## Electronics:
-Airtag using ESP32
-Number Transciever using light pulses
+- Airtag using ESP32
+- Number Transciever using light pulses
 ## Data Analysis:
 Cardiovascular disease prediction
 # Certificates 
